@@ -1,8 +1,10 @@
 name: HsRails
-version: 1.3.0
+version: 1.4.0
 description: High speed minecart rails
-api-version: 1.14
-main: no.netb.mc.hsrails.HsRails
+api-version: 1.20
+main: xyz.misilelaboratory.hsrails.HsRails
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.0
 commands:
   hsrails:
     description: Sets new minecart speed limit.

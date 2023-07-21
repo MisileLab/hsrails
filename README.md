@@ -3,11 +3,9 @@
 
 A spigot/bukkit plugin to make minecarts worth building again.
 
-For Minecraft version **1.14** and tested working on **1.15, 1.16.3, 1.19**. Will most likely work just fine on **newer versions as well**.
+For Minecraft **latest release** version.
 
 Place a powered rail on a _boost block_ (`redstone block` by default) to build high-speed rail. Place on any other block to get a regular powered rail.
-
-![scrot](https://github.com/ergor/hsrails/blob/master/img/scrot.png)
 
 High-speed rails are by default 4x faster than regular powered rails, ie. 32 m/s, or 115 km/h. This is as fast as rocket powered elytra flight.
 
